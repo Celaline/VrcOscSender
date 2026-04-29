@@ -1,3 +1,5 @@
+<img width="1091" height="649" alt="Screenshot 2026-04-29 172432" src="https://github.com/user-attachments/assets/44b76193-d7f3-43d5-bcdb-c317571bb51f" />
+
 # VRC OSC Sender
 
 A lightweight Windows app for sending VRChat avatar parameters over OSC (Open Sound Control)
