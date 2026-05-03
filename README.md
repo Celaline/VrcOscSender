@@ -30,6 +30,14 @@ OSC must be enabled in VRChat before the app can communicate with it.
 
 ---
 
+## Parameters
+
+[OSC Avatar Parameters](https://docs.vrchat.com/docs/osc-avatar-parameters)
+[OSC Avatar Scaling](https://docs.vrchat.com/docs/osc-avatar-scaling)
+[OSC as Input Controller](https://docs.vrchat.com/docs/osc-as-input-controller)
+
+---
+
 ## Disclaimer
 
 This application is not affiliated with or endorsed by VRChat Inc. Use of OSC in VRChat is subject to VRChat's [Terms of Service](https://hello.vrchat.com/legal).
